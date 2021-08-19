@@ -33,4 +33,4 @@ def merge_docx(source_files_path=r"D:\homework\all_docxs",
     output.Close()
 
 if __name__ == '__main__':
-  merge_docx()
+    merge_docx()
